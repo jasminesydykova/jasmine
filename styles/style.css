@@ -31,7 +31,7 @@
     padding: 10px 10%;
     width: 100%;
     height: 100vh;
-    background-image: url(../../images/stars.png);
+    background-image: url(../images/stars.png);
     background-size: cover;
     background-position: center;
   }
@@ -99,7 +99,7 @@
     padding-top: 200px;
     padding-bottom: 200px;
     color: #ffffff;
-    background-image: url(../../images/stars.png);
+    background-image: url(../images/stars.png);
     background-size: cover;
     background-position: center;
   }
@@ -182,7 +182,7 @@
     padding-top: 290px;
     padding: 50px 30px;
     margin-left: 50px;
-    background-image: url(../../images/stars.png);
+    background-image: url(../images/stars.png);
     background-size: cover;
     background-position: center;
   }
@@ -232,7 +232,7 @@
   
   #portfolio {
     padding: 50px 0;
-    background-image: url(../../images/stars.png);
+    background-image: url(../images/stars.png);
     background-size: cover;
     background-position: center;
   }
@@ -240,7 +240,7 @@
   .work-list > div {
     display: grid;
     margin-top: 50px;
-    background-image: url(../../images/stars.png);
+    background-image: url(../images/stars.png);
     grid-gap: 40px;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   }
@@ -342,7 +342,7 @@
 
   @media only screen and (max-with: 600px) {
     #header {
-      background-image: url(//images/stars.png);
+      background-image: url(../images/stars.png);
     }
     .header-text{
         margin-top: 100%;
